@@ -1,0 +1,6 @@
+@ISIECommerce_ASPNetAPI_HostAddress = http://localhost:5105
+
+GET {{ISIECommerce_ASPNetAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ISIECommerce_ASPNetAPI.props" />
+</Project>
